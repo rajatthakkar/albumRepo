@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/albumRepo/static/css/main.a3257e58.css",
+    "main.js": "/albumRepo/static/js/main.5776b69c.js",
+    "static/js/453.7503bd06.chunk.js": "/albumRepo/static/js/453.7503bd06.chunk.js",
+    "index.html": "/albumRepo/index.html",
+    "main.a3257e58.css.map": "/albumRepo/static/css/main.a3257e58.css.map",
+    "main.5776b69c.js.map": "/albumRepo/static/js/main.5776b69c.js.map",
+    "453.7503bd06.chunk.js.map": "/albumRepo/static/js/453.7503bd06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3257e58.css",
+    "static/js/main.5776b69c.js"
+  ]
+}
